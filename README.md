@@ -1,6 +1,7 @@
 # 🧮 Superstore Sales Dashboard (Excel)
 
 This project analyzes Superstore sales performance and visualizes key business insights using Microsoft Excel.
+
 It was completed as part of my Elevvo Data Analysis Internship.
 
 ---
